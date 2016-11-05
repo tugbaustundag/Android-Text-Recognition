@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_86febfa9774949e40517b9da40f1360beb6b217c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eeac8c60d845545411908bf7a5e81ef3d132e4">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35b866f483c350a60e94a97b280b9d241b9bc72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_cad9159d04c902896521db0509a59b1ba57d393d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ff799f701ffcc2f7cc84a47622da34420256d756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_1dab20dfd0eff654f225a34b809ca2e0c6268fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_aaa7950ebed563f4aae8979352b882f308e72838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_4c9b4a5ffe4cec2059bac186230017afd73c7e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_c5b0d0934ac5f7ab3ed24f41c1db4686e9b668c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_bcafd3d2a421ffc67f08bab4918fbeceda79bac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9d92f6915151886cb24b58621fe02bdb9d3db59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_12a418d1b33e5da13cea3ec2445858db18251d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_8cf494d9c61b467a9ba88b81549e188d8ce58474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_0773e29a6bf8385634c11ee0bf3a7919bca754fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_3135180dab44904c593dfaf0700c897c2b0825ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f06ab4c85db2f7ae0012a7948a67e1dac983546b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8b98b39e4f1071233b14212045725b538219274e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_5c8e63467dc41db60858693f92f22b59d363d88f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_8ad1e429842331e16c488a003b6015317edbafd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_64f0e42ba0ca7a0d00af3de9144ecac9d7c3be73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_effcfce3bfaf72e995a5e15f0f706171e7420a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8e707975c62782f309895436db022bbbd0862eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebcbb627a965dc2e82f6687802087e05392422ca">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f515aa3cbef7883fa4bb01c5646ed8a789d8c2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_7225c782b4da80812172914f0f1c27f0db8779ca/classes.dex" />
+    </item>
+
+</items>

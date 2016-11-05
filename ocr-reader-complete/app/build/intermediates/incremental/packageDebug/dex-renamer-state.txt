@@ -1,0 +1,7 @@
+#Sun Oct 23 20:32:57 EEST 2016
+base.0=/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f515aa3cbef7883fa4bb01c5646ed8a789d8c2b9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35b866f483c350a60e94a97b280b9d241b9bc72/classes.dex
+base.1=/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b35b866f483c350a60e94a97b280b9d241b9bc72
+file.0=/home/tugba/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f515aa3cbef7883fa4bb01c5646ed8a789d8c2b9/classes.dex
